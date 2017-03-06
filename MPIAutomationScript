@@ -28,3 +28,17 @@ do
                 fi
         done
 done
+
+#Sequential
+for row in "${rowArr[@]}";
+do
+    for (( num=1; num<=5; num++));
+    do
+        echo "ROWS: $row SEQUENTIAL TRIAL: $num" >> output.txt
+        echo "ROWS: $row SEQUENTIAL TRIAL: $num" >> time.txt
+        echo "ROWS: $row SEQUENTIAL TRIAL: $num"
+        (time mpirun -n 1 ./gs $row$txt) >> output.txt 2>> time.txt
+        echo "" >> output.txt
+        echo "" >> time.txt
+    done
+done
