@@ -1,0 +1,2070 @@
+ROWS: 2 CORES: 1 TRIAL: 1
+
+real	0m0.719s
+user	0m0.186s
+sys	0m0.163s
+
+ROWS: 2 CORES: 1 TRIAL: 2
+
+real	0m0.730s
+user	0m0.204s
+sys	0m0.155s
+
+ROWS: 2 CORES: 1 TRIAL: 3
+
+real	0m0.716s
+user	0m0.191s
+sys	0m0.155s
+
+ROWS: 2 CORES: 1 TRIAL: 4
+
+real	0m0.714s
+user	0m0.184s
+sys	0m0.159s
+
+ROWS: 2 CORES: 1 TRIAL: 5
+
+real	0m0.717s
+user	0m0.210s
+sys	0m0.140s
+
+ROWS: 2 CORES: 2 TRIAL: 1
+
+real	0m0.739s
+user	0m0.364s
+sys	0m0.265s
+
+ROWS: 2 CORES: 2 TRIAL: 2
+
+real	0m0.734s
+user	0m0.358s
+sys	0m0.268s
+
+ROWS: 2 CORES: 2 TRIAL: 3
+
+real	0m0.743s
+user	0m0.362s
+sys	0m0.268s
+
+ROWS: 2 CORES: 2 TRIAL: 4
+
+real	0m0.721s
+user	0m0.376s
+sys	0m0.262s
+
+ROWS: 2 CORES: 2 TRIAL: 5
+
+real	0m0.732s
+user	0m0.361s
+sys	0m0.252s
+
+ROWS: 4 CORES: 1 TRIAL: 1
+
+real	0m0.711s
+user	0m0.180s
+sys	0m0.155s
+
+ROWS: 4 CORES: 1 TRIAL: 2
+
+real	0m0.737s
+user	0m0.195s
+sys	0m0.172s
+
+ROWS: 4 CORES: 1 TRIAL: 3
+
+real	0m0.715s
+user	0m0.210s
+sys	0m0.131s
+
+ROWS: 4 CORES: 1 TRIAL: 4
+
+real	0m0.744s
+user	0m0.213s
+sys	0m0.165s
+
+ROWS: 4 CORES: 1 TRIAL: 5
+
+real	0m0.718s
+user	0m0.193s
+sys	0m0.155s
+
+ROWS: 4 CORES: 2 TRIAL: 1
+
+real	0m0.743s
+user	0m0.376s
+sys	0m0.271s
+
+ROWS: 4 CORES: 2 TRIAL: 2
+
+real	0m0.711s
+user	0m0.349s
+sys	0m0.241s
+
+ROWS: 4 CORES: 2 TRIAL: 3
+
+real	0m0.715s
+user	0m0.333s
+sys	0m0.272s
+
+ROWS: 4 CORES: 2 TRIAL: 4
+
+real	0m0.717s
+user	0m0.322s
+sys	0m0.280s
+
+ROWS: 4 CORES: 2 TRIAL: 5
+
+real	0m0.717s
+user	0m0.335s
+sys	0m0.268s
+
+ROWS: 4 CORES: 4 TRIAL: 1
+
+real	0m0.748s
+user	0m0.693s
+sys	0m0.462s
+
+ROWS: 4 CORES: 4 TRIAL: 2
+
+real	0m0.752s
+user	0m0.691s
+sys	0m0.441s
+
+ROWS: 4 CORES: 4 TRIAL: 3
+
+real	0m0.732s
+user	0m0.706s
+sys	0m0.449s
+
+ROWS: 4 CORES: 4 TRIAL: 4
+
+real	0m0.749s
+user	0m0.688s
+sys	0m0.478s
+
+ROWS: 4 CORES: 4 TRIAL: 5
+
+real	0m0.741s
+user	0m0.704s
+sys	0m0.488s
+
+ROWS: 8 CORES: 1 TRIAL: 1
+
+real	0m0.708s
+user	0m0.199s
+sys	0m0.138s
+
+ROWS: 8 CORES: 1 TRIAL: 2
+
+real	0m0.731s
+user	0m0.197s
+sys	0m0.159s
+
+ROWS: 8 CORES: 1 TRIAL: 3
+
+real	0m0.700s
+user	0m0.195s
+sys	0m0.132s
+
+ROWS: 8 CORES: 1 TRIAL: 4
+
+real	0m0.705s
+user	0m0.186s
+sys	0m0.146s
+
+ROWS: 8 CORES: 1 TRIAL: 5
+
+real	0m0.716s
+user	0m0.183s
+sys	0m0.157s
+
+ROWS: 8 CORES: 2 TRIAL: 1
+
+real	0m0.714s
+user	0m0.355s
+sys	0m0.251s
+
+ROWS: 8 CORES: 2 TRIAL: 2
+
+real	0m0.711s
+user	0m0.368s
+sys	0m0.245s
+
+ROWS: 8 CORES: 2 TRIAL: 3
+
+real	0m0.726s
+user	0m0.375s
+sys	0m0.242s
+
+ROWS: 8 CORES: 2 TRIAL: 4
+
+real	0m0.713s
+user	0m0.371s
+sys	0m0.249s
+
+ROWS: 8 CORES: 2 TRIAL: 5
+
+real	0m0.719s
+user	0m0.338s
+sys	0m0.256s
+
+ROWS: 8 CORES: 4 TRIAL: 1
+
+real	0m0.739s
+user	0m0.695s
+sys	0m0.449s
+
+ROWS: 8 CORES: 4 TRIAL: 2
+
+real	0m0.736s
+user	0m0.717s
+sys	0m0.462s
+
+ROWS: 8 CORES: 4 TRIAL: 3
+
+real	0m0.743s
+user	0m0.678s
+sys	0m0.435s
+
+ROWS: 8 CORES: 4 TRIAL: 4
+
+real	0m0.743s
+user	0m0.723s
+sys	0m0.442s
+
+ROWS: 8 CORES: 4 TRIAL: 5
+
+real	0m0.745s
+user	0m0.689s
+sys	0m0.475s
+
+ROWS: 8 CORES: 8 TRIAL: 1
+
+real	0m0.916s
+user	0m1.461s
+sys	0m0.943s
+
+ROWS: 8 CORES: 8 TRIAL: 2
+
+real	0m0.774s
+user	0m1.488s
+sys	0m0.935s
+
+ROWS: 8 CORES: 8 TRIAL: 3
+
+real	0m0.800s
+user	0m1.454s
+sys	0m0.963s
+
+ROWS: 8 CORES: 8 TRIAL: 4
+
+real	0m0.778s
+user	0m1.550s
+sys	0m0.946s
+
+ROWS: 8 CORES: 8 TRIAL: 5
+
+real	0m0.776s
+user	0m1.513s
+sys	0m0.919s
+
+ROWS: 16 CORES: 1 TRIAL: 1
+
+real	0m0.712s
+user	0m0.179s
+sys	0m0.162s
+
+ROWS: 16 CORES: 1 TRIAL: 2
+
+real	0m0.712s
+user	0m0.193s
+sys	0m0.159s
+
+ROWS: 16 CORES: 1 TRIAL: 3
+
+real	0m0.741s
+user	0m0.189s
+sys	0m0.183s
+
+ROWS: 16 CORES: 1 TRIAL: 4
+
+real	0m0.718s
+user	0m0.203s
+sys	0m0.154s
+
+ROWS: 16 CORES: 1 TRIAL: 5
+
+real	0m0.706s
+user	0m0.166s
+sys	0m0.170s
+
+ROWS: 16 CORES: 2 TRIAL: 1
+
+real	0m0.719s
+user	0m0.375s
+sys	0m0.252s
+
+ROWS: 16 CORES: 2 TRIAL: 2
+
+real	0m0.720s
+user	0m0.374s
+sys	0m0.253s
+
+ROWS: 16 CORES: 2 TRIAL: 3
+
+real	0m0.715s
+user	0m0.363s
+sys	0m0.247s
+
+ROWS: 16 CORES: 2 TRIAL: 4
+
+real	0m0.720s
+user	0m0.370s
+sys	0m0.269s
+
+ROWS: 16 CORES: 2 TRIAL: 5
+
+real	0m0.723s
+user	0m0.353s
+sys	0m0.267s
+
+ROWS: 16 CORES: 4 TRIAL: 1
+
+real	0m0.744s
+user	0m0.730s
+sys	0m0.496s
+
+ROWS: 16 CORES: 4 TRIAL: 2
+
+real	0m0.770s
+user	0m0.733s
+sys	0m0.496s
+
+ROWS: 16 CORES: 4 TRIAL: 3
+
+real	0m0.741s
+user	0m0.716s
+sys	0m0.501s
+
+ROWS: 16 CORES: 4 TRIAL: 4
+
+real	0m0.737s
+user	0m0.699s
+sys	0m0.462s
+
+ROWS: 16 CORES: 4 TRIAL: 5
+
+real	0m0.738s
+user	0m0.688s
+sys	0m0.486s
+
+ROWS: 16 CORES: 8 TRIAL: 1
+
+real	0m0.775s
+user	0m1.469s
+sys	0m0.970s
+
+ROWS: 16 CORES: 8 TRIAL: 2
+
+real	0m0.818s
+user	0m1.515s
+sys	0m0.954s
+
+ROWS: 16 CORES: 8 TRIAL: 3
+
+real	0m0.784s
+user	0m1.432s
+sys	0m0.951s
+
+ROWS: 16 CORES: 8 TRIAL: 4
+
+real	0m0.780s
+user	0m1.465s
+sys	0m0.977s
+
+ROWS: 16 CORES: 8 TRIAL: 5
+
+real	0m0.791s
+user	0m1.522s
+sys	0m0.977s
+
+ROWS: 16 CORES: 16 TRIAL: 1
+
+real	0m0.862s
+user	0m3.135s
+sys	0m1.628s
+
+ROWS: 16 CORES: 16 TRIAL: 2
+
+real	0m0.857s
+user	0m2.959s
+sys	0m1.585s
+
+ROWS: 16 CORES: 16 TRIAL: 3
+
+real	0m0.849s
+user	0m2.781s
+sys	0m1.581s
+
+ROWS: 16 CORES: 16 TRIAL: 4
+
+real	0m0.847s
+user	0m2.847s
+sys	0m1.555s
+
+ROWS: 16 CORES: 16 TRIAL: 5
+
+real	0m0.853s
+user	0m2.818s
+sys	0m1.547s
+
+ROWS: 32 CORES: 1 TRIAL: 1
+
+real	0m0.705s
+user	0m0.179s
+sys	0m0.153s
+
+ROWS: 32 CORES: 1 TRIAL: 2
+
+real	0m0.705s
+user	0m0.182s
+sys	0m0.149s
+
+ROWS: 32 CORES: 1 TRIAL: 3
+
+real	0m0.716s
+user	0m0.178s
+sys	0m0.167s
+
+ROWS: 32 CORES: 1 TRIAL: 4
+
+real	0m0.704s
+user	0m0.203s
+sys	0m0.126s
+
+ROWS: 32 CORES: 1 TRIAL: 5
+
+real	0m0.711s
+user	0m0.184s
+sys	0m0.154s
+
+ROWS: 32 CORES: 2 TRIAL: 1
+
+real	0m0.717s
+user	0m0.344s
+sys	0m0.263s
+
+ROWS: 32 CORES: 2 TRIAL: 2
+
+real	0m0.714s
+user	0m0.348s
+sys	0m0.257s
+
+ROWS: 32 CORES: 2 TRIAL: 3
+
+real	0m0.716s
+user	0m0.362s
+sys	0m0.237s
+
+ROWS: 32 CORES: 2 TRIAL: 4
+
+real	0m0.720s
+user	0m0.344s
+sys	0m0.246s
+
+ROWS: 32 CORES: 2 TRIAL: 5
+
+real	0m0.722s
+user	0m0.366s
+sys	0m0.256s
+
+ROWS: 32 CORES: 4 TRIAL: 1
+
+real	0m0.749s
+user	0m0.670s
+sys	0m0.509s
+
+ROWS: 32 CORES: 4 TRIAL: 2
+
+real	0m0.744s
+user	0m0.709s
+sys	0m0.473s
+
+ROWS: 32 CORES: 4 TRIAL: 3
+
+real	0m0.764s
+user	0m0.702s
+sys	0m0.483s
+
+ROWS: 32 CORES: 4 TRIAL: 4
+
+real	0m0.744s
+user	0m0.736s
+sys	0m0.470s
+
+ROWS: 32 CORES: 4 TRIAL: 5
+
+real	0m0.742s
+user	0m0.752s
+sys	0m0.425s
+
+ROWS: 32 CORES: 8 TRIAL: 1
+
+real	0m0.797s
+user	0m1.552s
+sys	0m0.936s
+
+ROWS: 32 CORES: 8 TRIAL: 2
+
+real	0m0.789s
+user	0m1.525s
+sys	0m0.956s
+
+ROWS: 32 CORES: 8 TRIAL: 3
+
+real	0m0.795s
+user	0m1.517s
+sys	0m0.959s
+
+ROWS: 32 CORES: 8 TRIAL: 4
+
+real	0m0.797s
+user	0m1.553s
+sys	0m0.958s
+
+ROWS: 32 CORES: 8 TRIAL: 5
+
+real	0m0.788s
+user	0m1.478s
+sys	0m0.957s
+
+ROWS: 32 CORES: 16 TRIAL: 1
+
+real	0m0.883s
+user	0m3.004s
+sys	0m1.600s
+
+ROWS: 32 CORES: 16 TRIAL: 2
+
+real	0m0.867s
+user	0m2.966s
+sys	0m1.650s
+
+ROWS: 32 CORES: 16 TRIAL: 3
+
+real	0m0.881s
+user	0m2.952s
+sys	0m1.595s
+
+ROWS: 32 CORES: 16 TRIAL: 4
+
+real	0m0.869s
+user	0m2.936s
+sys	0m1.564s
+
+ROWS: 32 CORES: 16 TRIAL: 5
+
+real	0m1.038s
+user	0m2.918s
+sys	0m1.592s
+
+ROWS: 32 CORES: 32 TRIAL: 1
+
+real	0m1.328s
+user	0m6.453s
+sys	0m3.406s
+
+ROWS: 32 CORES: 32 TRIAL: 2
+
+real	0m1.402s
+user	0m5.548s
+sys	0m3.775s
+
+ROWS: 32 CORES: 32 TRIAL: 3
+
+real	0m1.334s
+user	0m5.891s
+sys	0m3.402s
+
+ROWS: 32 CORES: 32 TRIAL: 4
+
+real	0m1.369s
+user	0m5.937s
+sys	0m3.325s
+
+ROWS: 32 CORES: 32 TRIAL: 5
+
+real	0m1.353s
+user	0m5.767s
+sys	0m3.998s
+
+ROWS: 64 CORES: 1 TRIAL: 1
+
+real	0m0.717s
+user	0m0.175s
+sys	0m0.169s
+
+ROWS: 64 CORES: 1 TRIAL: 2
+
+real	0m0.719s
+user	0m0.183s
+sys	0m0.161s
+
+ROWS: 64 CORES: 1 TRIAL: 3
+
+real	0m0.713s
+user	0m0.213s
+sys	0m0.126s
+
+ROWS: 64 CORES: 1 TRIAL: 4
+
+real	0m0.719s
+user	0m0.204s
+sys	0m0.143s
+
+ROWS: 64 CORES: 1 TRIAL: 5
+
+real	0m0.727s
+user	0m0.199s
+sys	0m0.155s
+
+ROWS: 64 CORES: 2 TRIAL: 1
+
+real	0m0.739s
+user	0m0.362s
+sys	0m0.270s
+
+ROWS: 64 CORES: 2 TRIAL: 2
+
+real	0m0.723s
+user	0m0.358s
+sys	0m0.263s
+
+ROWS: 64 CORES: 2 TRIAL: 3
+
+real	0m0.748s
+user	0m0.349s
+sys	0m0.282s
+
+ROWS: 64 CORES: 2 TRIAL: 4
+
+real	0m0.736s
+user	0m0.359s
+sys	0m0.254s
+
+ROWS: 64 CORES: 2 TRIAL: 5
+
+real	0m0.736s
+user	0m0.345s
+sys	0m0.282s
+
+ROWS: 64 CORES: 4 TRIAL: 1
+
+real	0m0.764s
+user	0m0.715s
+sys	0m0.496s
+
+ROWS: 64 CORES: 4 TRIAL: 2
+
+real	0m0.748s
+user	0m0.746s
+sys	0m0.439s
+
+ROWS: 64 CORES: 4 TRIAL: 3
+
+real	0m0.744s
+user	0m0.718s
+sys	0m0.456s
+
+ROWS: 64 CORES: 4 TRIAL: 4
+
+real	0m0.755s
+user	0m0.744s
+sys	0m0.452s
+
+ROWS: 64 CORES: 4 TRIAL: 5
+
+real	0m0.747s
+user	0m0.734s
+sys	0m0.471s
+
+ROWS: 64 CORES: 8 TRIAL: 1
+
+real	0m0.800s
+user	0m1.531s
+sys	0m0.999s
+
+ROWS: 64 CORES: 8 TRIAL: 2
+
+real	0m0.801s
+user	0m1.646s
+sys	0m0.882s
+
+ROWS: 64 CORES: 8 TRIAL: 3
+
+real	0m0.786s
+user	0m1.529s
+sys	0m0.942s
+
+ROWS: 64 CORES: 8 TRIAL: 4
+
+real	0m0.802s
+user	0m1.544s
+sys	0m0.953s
+
+ROWS: 64 CORES: 8 TRIAL: 5
+
+real	0m0.805s
+user	0m1.556s
+sys	0m0.968s
+
+ROWS: 64 CORES: 16 TRIAL: 1
+
+real	0m0.868s
+user	0m3.164s
+sys	0m1.992s
+
+ROWS: 64 CORES: 16 TRIAL: 2
+
+real	0m0.894s
+user	0m3.248s
+sys	0m1.916s
+
+ROWS: 64 CORES: 16 TRIAL: 3
+
+real	0m0.888s
+user	0m2.942s
+sys	0m1.693s
+
+ROWS: 64 CORES: 16 TRIAL: 4
+
+real	0m0.877s
+user	0m2.964s
+sys	0m1.729s
+
+ROWS: 64 CORES: 16 TRIAL: 5
+
+real	0m0.869s
+user	0m2.905s
+sys	0m1.583s
+
+ROWS: 64 CORES: 32 TRIAL: 1
+
+real	0m1.341s
+user	0m5.520s
+sys	0m3.901s
+
+ROWS: 64 CORES: 32 TRIAL: 2
+
+real	0m1.362s
+user	0m6.802s
+sys	0m3.836s
+
+ROWS: 64 CORES: 32 TRIAL: 3
+
+real	0m1.354s
+user	0m5.935s
+sys	0m3.358s
+
+ROWS: 64 CORES: 32 TRIAL: 4
+
+real	0m1.340s
+user	0m5.680s
+sys	0m3.222s
+
+ROWS: 64 CORES: 32 TRIAL: 5
+
+real	0m1.365s
+user	0m6.039s
+sys	0m3.544s
+
+ROWS: 64 CORES: 64 TRIAL: 1
+
+real	0m3.553s
+user	1m14.638s
+sys	0m12.945s
+
+ROWS: 64 CORES: 64 TRIAL: 2
+
+real	0m2.629s
+user	0m34.837s
+sys	0m13.841s
+
+ROWS: 64 CORES: 64 TRIAL: 3
+
+real	0m3.030s
+user	0m52.926s
+sys	0m11.576s
+
+ROWS: 64 CORES: 64 TRIAL: 4
+
+real	0m2.319s
+user	0m31.375s
+sys	0m11.126s
+
+ROWS: 64 CORES: 64 TRIAL: 5
+
+real	0m2.589s
+user	0m32.737s
+sys	0m13.777s
+
+ROWS: 128 CORES: 1 TRIAL: 1
+
+real	0m0.716s
+user	0m0.179s
+sys	0m0.163s
+
+ROWS: 128 CORES: 1 TRIAL: 2
+
+real	0m0.727s
+user	0m0.206s
+sys	0m0.149s
+
+ROWS: 128 CORES: 1 TRIAL: 3
+
+real	0m0.729s
+user	0m0.208s
+sys	0m0.150s
+
+ROWS: 128 CORES: 1 TRIAL: 4
+
+real	0m0.726s
+user	0m0.195s
+sys	0m0.161s
+
+ROWS: 128 CORES: 1 TRIAL: 5
+
+real	0m0.738s
+user	0m0.198s
+sys	0m0.173s
+
+ROWS: 128 CORES: 2 TRIAL: 1
+
+real	0m0.729s
+user	0m0.392s
+sys	0m0.237s
+
+ROWS: 128 CORES: 2 TRIAL: 2
+
+real	0m0.744s
+user	0m0.380s
+sys	0m0.266s
+
+ROWS: 128 CORES: 2 TRIAL: 3
+
+real	0m0.732s
+user	0m0.354s
+sys	0m0.270s
+
+ROWS: 128 CORES: 2 TRIAL: 4
+
+real	0m0.723s
+user	0m0.373s
+sys	0m0.246s
+
+ROWS: 128 CORES: 2 TRIAL: 5
+
+real	0m0.821s
+user	0m0.382s
+sys	0m0.265s
+
+ROWS: 128 CORES: 4 TRIAL: 1
+
+real	0m0.761s
+user	0m0.755s
+sys	0m0.463s
+
+ROWS: 128 CORES: 4 TRIAL: 2
+
+real	0m0.765s
+user	0m0.708s
+sys	0m0.517s
+
+ROWS: 128 CORES: 4 TRIAL: 3
+
+real	0m0.769s
+user	0m0.706s
+sys	0m0.493s
+
+ROWS: 128 CORES: 4 TRIAL: 4
+
+real	0m0.770s
+user	0m0.764s
+sys	0m0.469s
+
+ROWS: 128 CORES: 4 TRIAL: 5
+
+real	0m0.754s
+user	0m0.753s
+sys	0m0.454s
+
+ROWS: 128 CORES: 8 TRIAL: 1
+
+real	0m0.805s
+user	0m1.592s
+sys	0m0.892s
+
+ROWS: 128 CORES: 8 TRIAL: 2
+
+real	0m0.809s
+user	0m1.584s
+sys	0m0.999s
+
+ROWS: 128 CORES: 8 TRIAL: 3
+
+real	0m0.784s
+user	0m1.570s
+sys	0m0.939s
+
+ROWS: 128 CORES: 8 TRIAL: 4
+
+real	0m0.806s
+user	0m1.570s
+sys	0m0.930s
+
+ROWS: 128 CORES: 8 TRIAL: 5
+
+real	0m0.790s
+user	0m1.579s
+sys	0m0.913s
+
+ROWS: 128 CORES: 16 TRIAL: 1
+
+real	0m0.899s
+user	0m3.033s
+sys	0m1.615s
+
+ROWS: 128 CORES: 16 TRIAL: 2
+
+real	0m0.887s
+user	0m3.081s
+sys	0m1.705s
+
+ROWS: 128 CORES: 16 TRIAL: 3
+
+real	0m0.904s
+user	0m3.096s
+sys	0m1.614s
+
+ROWS: 128 CORES: 16 TRIAL: 4
+
+real	0m0.897s
+user	0m3.347s
+sys	0m1.807s
+
+ROWS: 128 CORES: 16 TRIAL: 5
+
+real	0m0.899s
+user	0m2.962s
+sys	0m1.636s
+
+ROWS: 128 CORES: 32 TRIAL: 1
+
+real	0m1.371s
+user	0m5.949s
+sys	0m3.666s
+
+ROWS: 128 CORES: 32 TRIAL: 2
+
+real	0m1.367s
+user	0m5.801s
+sys	0m3.049s
+
+ROWS: 128 CORES: 32 TRIAL: 3
+
+real	0m1.367s
+user	0m5.538s
+sys	0m3.921s
+
+ROWS: 128 CORES: 32 TRIAL: 4
+
+real	0m1.378s
+user	0m6.429s
+sys	0m3.847s
+
+ROWS: 128 CORES: 32 TRIAL: 5
+
+real	0m1.379s
+user	0m5.884s
+sys	0m3.529s
+
+ROWS: 128 CORES: 64 TRIAL: 1
+
+real	0m2.615s
+user	0m33.171s
+sys	0m11.341s
+
+ROWS: 128 CORES: 64 TRIAL: 2
+
+real	0m2.605s
+user	0m31.839s
+sys	0m13.971s
+
+ROWS: 128 CORES: 64 TRIAL: 3
+
+real	0m2.612s
+user	0m40.684s
+sys	0m12.386s
+
+ROWS: 128 CORES: 64 TRIAL: 4
+
+real	0m2.592s
+user	0m42.678s
+sys	0m11.977s
+
+ROWS: 128 CORES: 64 TRIAL: 5
+
+real	0m2.602s
+user	0m48.478s
+sys	0m10.139s
+
+ROWS: 256 CORES: 1 TRIAL: 1
+
+real	0m0.738s
+user	0m0.222s
+sys	0m0.161s
+
+ROWS: 256 CORES: 1 TRIAL: 2
+
+real	0m0.735s
+user	0m0.210s
+sys	0m0.162s
+
+ROWS: 256 CORES: 1 TRIAL: 3
+
+real	0m0.743s
+user	0m0.223s
+sys	0m0.156s
+
+ROWS: 256 CORES: 1 TRIAL: 4
+
+real	0m0.736s
+user	0m0.228s
+sys	0m0.149s
+
+ROWS: 256 CORES: 1 TRIAL: 5
+
+real	0m0.729s
+user	0m0.197s
+sys	0m0.174s
+
+ROWS: 256 CORES: 2 TRIAL: 1
+
+real	0m0.751s
+user	0m0.396s
+sys	0m0.264s
+
+ROWS: 256 CORES: 2 TRIAL: 2
+
+real	0m0.747s
+user	0m0.416s
+sys	0m0.250s
+
+ROWS: 256 CORES: 2 TRIAL: 3
+
+real	0m0.743s
+user	0m0.417s
+sys	0m0.247s
+
+ROWS: 256 CORES: 2 TRIAL: 4
+
+real	0m0.743s
+user	0m0.380s
+sys	0m0.270s
+
+ROWS: 256 CORES: 2 TRIAL: 5
+
+real	0m0.744s
+user	0m0.407s
+sys	0m0.270s
+
+ROWS: 256 CORES: 4 TRIAL: 1
+
+real	0m0.768s
+user	0m0.799s
+sys	0m0.483s
+
+ROWS: 256 CORES: 4 TRIAL: 2
+
+real	0m0.767s
+user	0m0.815s
+sys	0m0.466s
+
+ROWS: 256 CORES: 4 TRIAL: 3
+
+real	0m0.776s
+user	0m0.797s
+sys	0m0.486s
+
+ROWS: 256 CORES: 4 TRIAL: 4
+
+real	0m0.783s
+user	0m0.823s
+sys	0m0.494s
+
+ROWS: 256 CORES: 4 TRIAL: 5
+
+real	0m0.770s
+user	0m0.796s
+sys	0m0.488s
+
+ROWS: 256 CORES: 8 TRIAL: 1
+
+real	0m0.834s
+user	0m1.702s
+sys	0m0.965s
+
+ROWS: 256 CORES: 8 TRIAL: 2
+
+real	0m0.823s
+user	0m1.669s
+sys	0m0.980s
+
+ROWS: 256 CORES: 8 TRIAL: 3
+
+real	0m0.812s
+user	0m1.663s
+sys	0m0.971s
+
+ROWS: 256 CORES: 8 TRIAL: 4
+
+real	0m0.806s
+user	0m1.482s
+sys	0m0.789s
+
+ROWS: 256 CORES: 8 TRIAL: 5
+
+real	0m0.813s
+user	0m1.693s
+sys	0m1.010s
+
+ROWS: 256 CORES: 16 TRIAL: 1
+
+real	0m0.922s
+user	0m3.311s
+sys	0m1.763s
+
+ROWS: 256 CORES: 16 TRIAL: 2
+
+real	0m0.908s
+user	0m3.419s
+sys	0m1.736s
+
+ROWS: 256 CORES: 16 TRIAL: 3
+
+real	0m0.899s
+user	0m3.616s
+sys	0m1.992s
+
+ROWS: 256 CORES: 16 TRIAL: 4
+
+real	0m0.905s
+user	0m3.289s
+sys	0m1.734s
+
+ROWS: 256 CORES: 16 TRIAL: 5
+
+real	0m0.902s
+user	0m3.267s
+sys	0m1.609s
+
+ROWS: 256 CORES: 32 TRIAL: 1
+
+real	0m1.370s
+user	0m6.509s
+sys	0m3.993s
+
+ROWS: 256 CORES: 32 TRIAL: 2
+
+real	0m1.380s
+user	0m6.288s
+sys	0m3.979s
+
+ROWS: 256 CORES: 32 TRIAL: 3
+
+real	0m1.387s
+user	0m6.177s
+sys	0m4.186s
+
+ROWS: 256 CORES: 32 TRIAL: 4
+
+real	0m1.402s
+user	0m6.144s
+sys	0m4.023s
+
+ROWS: 256 CORES: 32 TRIAL: 5
+
+real	0m1.376s
+user	0m6.382s
+sys	0m4.387s
+
+ROWS: 256 CORES: 64 TRIAL: 1
+
+real	0m2.626s
+user	0m41.466s
+sys	0m11.404s
+
+ROWS: 256 CORES: 64 TRIAL: 2
+
+real	0m3.506s
+user	1m18.959s
+sys	0m14.145s
+
+ROWS: 256 CORES: 64 TRIAL: 3
+
+real	0m2.896s
+user	0m45.994s
+sys	0m9.453s
+
+ROWS: 256 CORES: 64 TRIAL: 4
+
+real	0m2.935s
+user	0m49.431s
+sys	0m14.360s
+
+ROWS: 256 CORES: 64 TRIAL: 5
+
+real	0m2.657s
+user	0m46.202s
+sys	0m11.536s
+
+ROWS: 512 CORES: 1 TRIAL: 1
+
+real	0m0.781s
+user	0m0.272s
+sys	0m0.143s
+
+ROWS: 512 CORES: 1 TRIAL: 2
+
+real	0m0.778s
+user	0m0.273s
+sys	0m0.143s
+
+ROWS: 512 CORES: 1 TRIAL: 3
+
+real	0m0.792s
+user	0m0.285s
+sys	0m0.145s
+
+ROWS: 512 CORES: 1 TRIAL: 4
+
+real	0m0.797s
+user	0m0.291s
+sys	0m0.149s
+
+ROWS: 512 CORES: 1 TRIAL: 5
+
+real	0m0.797s
+user	0m0.285s
+sys	0m0.151s
+
+ROWS: 512 CORES: 2 TRIAL: 1
+
+real	0m0.808s
+user	0m0.546s
+sys	0m0.275s
+
+ROWS: 512 CORES: 2 TRIAL: 2
+
+real	0m0.793s
+user	0m0.527s
+sys	0m0.270s
+
+ROWS: 512 CORES: 2 TRIAL: 3
+
+real	0m0.790s
+user	0m0.551s
+sys	0m0.259s
+
+ROWS: 512 CORES: 2 TRIAL: 4
+
+real	0m0.788s
+user	0m0.558s
+sys	0m0.240s
+
+ROWS: 512 CORES: 2 TRIAL: 5
+
+real	0m0.820s
+user	0m0.576s
+sys	0m0.274s
+
+ROWS: 512 CORES: 4 TRIAL: 1
+
+real	0m0.825s
+user	0m1.130s
+sys	0m0.479s
+
+ROWS: 512 CORES: 4 TRIAL: 2
+
+real	0m0.813s
+user	0m1.023s
+sys	0m0.515s
+
+ROWS: 512 CORES: 4 TRIAL: 3
+
+real	0m0.826s
+user	0m1.100s
+sys	0m0.467s
+
+ROWS: 512 CORES: 4 TRIAL: 4
+
+real	0m0.812s
+user	0m1.042s
+sys	0m0.499s
+
+ROWS: 512 CORES: 4 TRIAL: 5
+
+real	0m0.829s
+user	0m1.046s
+sys	0m0.492s
+
+ROWS: 512 CORES: 8 TRIAL: 1
+
+real	0m0.853s
+user	0m2.159s
+sys	0m0.996s
+
+ROWS: 512 CORES: 8 TRIAL: 2
+
+real	0m0.871s
+user	0m2.205s
+sys	0m1.003s
+
+ROWS: 512 CORES: 8 TRIAL: 3
+
+real	0m0.866s
+user	0m2.193s
+sys	0m1.016s
+
+ROWS: 512 CORES: 8 TRIAL: 4
+
+real	0m0.865s
+user	0m2.230s
+sys	0m0.970s
+
+ROWS: 512 CORES: 8 TRIAL: 5
+
+real	0m0.890s
+user	0m2.189s
+sys	0m0.998s
+
+ROWS: 512 CORES: 16 TRIAL: 1
+
+real	0m0.959s
+user	0m4.755s
+sys	0m2.170s
+
+ROWS: 512 CORES: 16 TRIAL: 2
+
+real	0m0.947s
+user	0m4.791s
+sys	0m2.126s
+
+ROWS: 512 CORES: 16 TRIAL: 3
+
+real	0m0.964s
+user	0m4.788s
+sys	0m2.138s
+
+ROWS: 512 CORES: 16 TRIAL: 4
+
+real	0m0.959s
+user	0m4.664s
+sys	0m2.122s
+
+ROWS: 512 CORES: 16 TRIAL: 5
+
+real	0m0.944s
+user	0m4.792s
+sys	0m2.066s
+
+ROWS: 512 CORES: 32 TRIAL: 1
+
+real	0m1.143s
+user	0m8.291s
+sys	0m4.678s
+
+ROWS: 512 CORES: 32 TRIAL: 2
+
+real	0m1.127s
+user	0m8.578s
+sys	0m3.734s
+
+ROWS: 512 CORES: 32 TRIAL: 3
+
+real	0m1.126s
+user	0m8.433s
+sys	0m4.352s
+
+ROWS: 512 CORES: 32 TRIAL: 4
+
+real	0m1.458s
+user	0m8.915s
+sys	0m5.395s
+
+ROWS: 512 CORES: 32 TRIAL: 5
+
+real	0m1.412s
+user	0m8.989s
+sys	0m4.523s
+
+ROWS: 512 CORES: 64 TRIAL: 1
+
+real	0m3.300s
+user	1m4.530s
+sys	0m19.486s
+
+ROWS: 512 CORES: 64 TRIAL: 2
+
+real	0m2.987s
+user	1m4.795s
+sys	0m12.718s
+
+ROWS: 512 CORES: 64 TRIAL: 3
+
+real	0m2.983s
+user	1m6.136s
+sys	0m18.163s
+
+ROWS: 512 CORES: 64 TRIAL: 4
+
+real	0m2.690s
+user	0m55.408s
+sys	0m15.641s
+
+ROWS: 512 CORES: 64 TRIAL: 5
+
+real	0m2.418s
+user	0m42.985s
+sys	0m13.500s
+
+ROWS: 1024 CORES: 1 TRIAL: 1
+
+real	0m0.988s
+user	0m0.638s
+sys	0m0.148s
+
+ROWS: 1024 CORES: 1 TRIAL: 2
+
+real	0m0.985s
+user	0m0.623s
+sys	0m0.162s
+
+ROWS: 1024 CORES: 1 TRIAL: 3
+
+real	0m0.979s
+user	0m0.646s
+sys	0m0.149s
+
+ROWS: 1024 CORES: 1 TRIAL: 4
+
+real	0m0.981s
+user	0m0.640s
+sys	0m0.143s
+
+ROWS: 1024 CORES: 1 TRIAL: 5
+
+real	0m0.968s
+user	0m0.608s
+sys	0m0.161s
+
+ROWS: 1024 CORES: 2 TRIAL: 1
+
+real	0m1.031s
+user	0m1.096s
+sys	0m0.267s
+
+ROWS: 1024 CORES: 2 TRIAL: 2
+
+real	0m0.976s
+user	0m1.014s
+sys	0m0.238s
+
+ROWS: 1024 CORES: 2 TRIAL: 3
+
+real	0m1.064s
+user	0m1.143s
+sys	0m0.284s
+
+ROWS: 1024 CORES: 2 TRIAL: 4
+
+real	0m0.977s
+user	0m1.030s
+sys	0m0.240s
+
+ROWS: 1024 CORES: 2 TRIAL: 5
+
+real	0m0.978s
+user	0m0.993s
+sys	0m0.243s
+
+ROWS: 1024 CORES: 4 TRIAL: 1
+
+real	0m1.121s
+user	0m2.234s
+sys	0m0.526s
+
+ROWS: 1024 CORES: 4 TRIAL: 2
+
+real	0m1.015s
+user	0m1.890s
+sys	0m0.484s
+
+ROWS: 1024 CORES: 4 TRIAL: 3
+
+real	0m1.123s
+user	0m2.166s
+sys	0m0.600s
+
+ROWS: 1024 CORES: 4 TRIAL: 4
+
+real	0m1.004s
+user	0m1.837s
+sys	0m0.485s
+
+ROWS: 1024 CORES: 4 TRIAL: 5
+
+real	0m1.082s
+user	0m1.911s
+sys	0m0.457s
+
+ROWS: 1024 CORES: 8 TRIAL: 1
+
+real	0m1.125s
+user	0m4.303s
+sys	0m1.256s
+
+ROWS: 1024 CORES: 8 TRIAL: 2
+
+real	0m1.105s
+user	0m4.175s
+sys	0m1.106s
+
+ROWS: 1024 CORES: 8 TRIAL: 3
+
+real	0m1.083s
+user	0m4.038s
+sys	0m1.160s
+
+ROWS: 1024 CORES: 8 TRIAL: 4
+
+real	0m1.134s
+user	0m4.334s
+sys	0m1.300s
+
+ROWS: 1024 CORES: 8 TRIAL: 5
+
+real	0m1.179s
+user	0m4.536s
+sys	0m1.211s
+
+ROWS: 1024 CORES: 16 TRIAL: 1
+
+real	0m1.280s
+user	0m9.606s
+sys	0m3.087s
+
+ROWS: 1024 CORES: 16 TRIAL: 2
+
+real	0m1.258s
+user	0m9.291s
+sys	0m2.773s
+
+ROWS: 1024 CORES: 16 TRIAL: 3
+
+real	0m1.248s
+user	0m9.534s
+sys	0m2.926s
+
+ROWS: 1024 CORES: 16 TRIAL: 4
+
+real	0m1.183s
+user	0m8.962s
+sys	0m2.240s
+
+ROWS: 1024 CORES: 16 TRIAL: 5
+
+real	0m1.276s
+user	0m9.541s
+sys	0m2.819s
+
+ROWS: 1024 CORES: 32 TRIAL: 1
+
+real	0m1.792s
+user	0m23.847s
+sys	0m8.068s
+
+ROWS: 1024 CORES: 32 TRIAL: 2
+
+real	0m1.472s
+user	0m21.615s
+sys	0m8.092s
+
+ROWS: 1024 CORES: 32 TRIAL: 3
+
+real	0m1.469s
+user	0m20.286s
+sys	0m9.693s
+
+ROWS: 1024 CORES: 32 TRIAL: 4
+
+real	0m1.485s
+user	0m20.264s
+sys	0m8.632s
+
+ROWS: 1024 CORES: 32 TRIAL: 5
+
+real	0m1.729s
+user	0m24.914s
+sys	0m9.291s
+
+ROWS: 1024 CORES: 64 TRIAL: 1
+
+real	0m4.891s
+user	2m8.656s
+sys	0m21.420s
+
+ROWS: 1024 CORES: 64 TRIAL: 2
+
+real	0m3.343s
+user	1m26.284s
+sys	0m16.917s
+
+ROWS: 1024 CORES: 64 TRIAL: 3
+
+real	0m3.306s
+user	1m9.584s
+sys	0m25.553s
+
+ROWS: 1024 CORES: 64 TRIAL: 4
+
+real	0m2.755s
+user	1m5.360s
+sys	0m24.304s
+
+ROWS: 1024 CORES: 64 TRIAL: 5
+
+real	0m3.082s
+user	1m3.613s
+sys	0m24.463s
+
+ROWS: 2048 CORES: 1 TRIAL: 1
+
+real	0m2.656s
+user	0m2.095s
+sys	0m0.180s
+
+ROWS: 2048 CORES: 1 TRIAL: 2
+
+real	0m2.645s
+user	0m2.180s
+sys	0m0.164s
+
+ROWS: 2048 CORES: 1 TRIAL: 3
+
+real	0m2.875s
+user	0m2.334s
+sys	0m0.175s
+
+ROWS: 2048 CORES: 1 TRIAL: 4
+
+real	0m2.818s
+user	0m2.354s
+sys	0m0.142s
+
+ROWS: 2048 CORES: 1 TRIAL: 5
+
+real	0m2.665s
+user	0m2.163s
+sys	0m0.178s
+
+ROWS: 2048 CORES: 2 TRIAL: 1
+
+real	0m2.065s
+user	0m3.357s
+sys	0m0.291s
+
+ROWS: 2048 CORES: 2 TRIAL: 2
+
+real	0m2.214s
+user	0m3.571s
+sys	0m0.345s
+
+ROWS: 2048 CORES: 2 TRIAL: 3
+
+real	0m2.211s
+user	0m3.580s
+sys	0m0.344s
+
+ROWS: 2048 CORES: 2 TRIAL: 4
+
+real	0m2.206s
+user	0m3.541s
+sys	0m0.346s
+
+ROWS: 2048 CORES: 2 TRIAL: 5
+
+real	0m2.226s
+user	0m3.583s
+sys	0m0.376s
+
+ROWS: 2048 CORES: 4 TRIAL: 1
+
+real	0m2.493s
+user	0m6.866s
+sys	0m0.913s
+
+ROWS: 2048 CORES: 4 TRIAL: 2
+
+real	0m2.216s
+user	0m5.936s
+sys	0m0.744s
+
+ROWS: 2048 CORES: 4 TRIAL: 3
+
+real	0m2.236s
+user	0m6.200s
+sys	0m0.645s
+
+ROWS: 2048 CORES: 4 TRIAL: 4
+
+real	0m2.255s
+user	0m6.249s
+sys	0m0.701s
+
+ROWS: 2048 CORES: 4 TRIAL: 5
+
+real	0m2.181s
+user	0m5.944s
+sys	0m0.674s
+
+ROWS: 2048 CORES: 8 TRIAL: 1
+
+real	0m1.951s
+user	0m11.374s
+sys	0m1.374s
+
+ROWS: 2048 CORES: 8 TRIAL: 2
+
+real	0m1.941s
+user	0m11.178s
+sys	0m1.357s
+
+ROWS: 2048 CORES: 8 TRIAL: 3
+
+real	0m1.972s
+user	0m11.329s
+sys	0m1.430s
+
+ROWS: 2048 CORES: 8 TRIAL: 4
+
+real	0m1.960s
+user	0m11.423s
+sys	0m1.338s
+
+ROWS: 2048 CORES: 8 TRIAL: 5
+
+real	0m1.976s
+user	0m11.433s
+sys	0m1.450s
+
+ROWS: 2048 CORES: 16 TRIAL: 1
+
+real	0m2.121s
+user	0m23.092s
+sys	0m4.033s
+
+ROWS: 2048 CORES: 16 TRIAL: 2
+
+real	0m2.092s
+user	0m22.941s
+sys	0m3.690s
+
+ROWS: 2048 CORES: 16 TRIAL: 3
+
+real	0m2.294s
+user	0m24.812s
+sys	0m4.316s
+
+ROWS: 2048 CORES: 16 TRIAL: 4
+
+real	0m2.064s
+user	0m22.610s
+sys	0m2.994s
+
+ROWS: 2048 CORES: 16 TRIAL: 5
+
+real	0m2.042s
+user	0m22.522s
+sys	0m3.116s
+
+ROWS: 2048 CORES: 32 TRIAL: 1
+
+real	0m2.819s
+user	0m51.796s
+sys	0m18.552s
+
+ROWS: 2048 CORES: 32 TRIAL: 2
+
+real	0m2.809s
+user	0m50.848s
+sys	0m17.997s
+
+ROWS: 2048 CORES: 32 TRIAL: 3
+
+real	0m2.787s
+user	0m49.338s
+sys	0m18.858s
+
+ROWS: 2048 CORES: 32 TRIAL: 4
+
+real	0m2.841s
+user	0m51.173s
+sys	0m18.220s
+
+ROWS: 2048 CORES: 32 TRIAL: 5
+
+real	0m2.889s
+user	0m51.879s
+sys	0m18.396s
+
+ROWS: 2048 CORES: 64 TRIAL: 1
+
+real	0m5.688s
+user	2m52.830s
+sys	1m5.455s
+
+ROWS: 2048 CORES: 64 TRIAL: 2
+
+real	0m6.442s
+user	3m10.902s
+sys	1m35.055s
+
+ROWS: 2048 CORES: 64 TRIAL: 3
+
+real	0m6.635s
+user	3m14.273s
+sys	1m22.918s
+
+ROWS: 2048 CORES: 64 TRIAL: 4
+
+real	0m6.472s
+user	3m9.320s
+sys	1m24.535s
+
+ROWS: 2048 CORES: 64 TRIAL: 5
+
+real	0m6.067s
+user	2m56.087s
+sys	1m20.589s
+
+ROWS: 4096 CORES: 1 TRIAL: 1
+
+real	0m9.352s
+user	0m8.683s
+sys	0m0.247s
+
+ROWS: 4096 CORES: 1 TRIAL: 2
+
+real	0m9.419s
+user	0m8.758s
+sys	0m0.216s
+
+ROWS: 4096 CORES: 1 TRIAL: 3
+
+real	0m9.300s
+user	0m8.662s
+sys	0m0.230s
+
+ROWS: 4096 CORES: 1 TRIAL: 4
+
+real	0m9.293s
+user	0m8.646s
+sys	0m0.239s
+
+ROWS: 4096 CORES: 1 TRIAL: 5
+
+real	0m9.309s
+user	0m8.719s
+sys	0m0.239s
+
+ROWS: 4096 CORES: 2 TRIAL: 1
+
+real	0m7.760s
+user	0m13.768s
+sys	0m0.680s
+
+ROWS: 4096 CORES: 2 TRIAL: 2
+
+real	0m7.337s
+user	0m13.230s
+sys	0m0.528s
+
+ROWS: 4096 CORES: 2 TRIAL: 3
+
+real	0m7.339s
+user	0m13.173s
+sys	0m0.484s
+
+ROWS: 4096 CORES: 2 TRIAL: 4
+
+real	0m7.381s
+user	0m13.286s
+sys	0m0.430s
+
+ROWS: 4096 CORES: 2 TRIAL: 5
+
+real	0m7.101s
+user	0m13.165s
+sys	0m0.467s
+
+ROWS: 4096 CORES: 4 TRIAL: 1
+
+real	0m7.708s
+user	0m26.502s
+sys	0m2.490s
+
+ROWS: 4096 CORES: 4 TRIAL: 2
+
+real	0m6.112s
+user	0m21.595s
+sys	0m0.878s
+
+ROWS: 4096 CORES: 4 TRIAL: 3
+
+real	0m7.404s
+user	0m25.453s
+sys	0m2.474s
+
+ROWS: 4096 CORES: 4 TRIAL: 4
+
+real	0m8.758s
+user	0m28.929s
+sys	0m4.134s
+
+ROWS: 4096 CORES: 4 TRIAL: 5
+
+real	0m7.409s
+user	0m25.898s
+sys	0m2.256s
+
+ROWS: 4096 CORES: 8 TRIAL: 1
+
+real	0m6.378s
+user	0m44.138s
+sys	0m3.419s
+
+ROWS: 4096 CORES: 8 TRIAL: 2
+
+real	0m7.657s
+user	0m49.916s
+sys	0m7.874s
+
+ROWS: 4096 CORES: 8 TRIAL: 3
+
+real	0m6.304s
+user	0m44.451s
+sys	0m2.973s
+
+ROWS: 4096 CORES: 8 TRIAL: 4
+
+real	0m6.065s
+user	0m42.129s
+sys	0m2.756s
+
+ROWS: 4096 CORES: 8 TRIAL: 5
+
+real	0m7.777s
+user	0m55.380s
+sys	0m3.681s
+
+ROWS: 4096 CORES: 16 TRIAL: 1
+
+real	0m7.296s
+user	1m36.743s
+sys	0m14.401s
+
+ROWS: 4096 CORES: 16 TRIAL: 2
+
+real	0m7.545s
+user	1m41.066s
+sys	0m13.830s
+
+ROWS: 4096 CORES: 16 TRIAL: 3
+
+real	0m5.881s
+user	1m21.814s
+sys	0m5.475s
+
+ROWS: 4096 CORES: 16 TRIAL: 4
+
+real	0m5.893s
+user	1m21.122s
+sys	0m5.587s
+
+ROWS: 4096 CORES: 16 TRIAL: 5
+
+real	0m5.889s
+user	1m21.506s
+sys	0m7.004s
+
+ROWS: 4096 CORES: 32 TRIAL: 1
+
+real	0m8.523s
+user	3m17.711s
+sys	0m50.532s
+
+ROWS: 4096 CORES: 32 TRIAL: 2
+
+real	0m7.952s
+user	3m5.523s
+sys	0m42.991s
+
+ROWS: 4096 CORES: 32 TRIAL: 3
+
+real	0m8.172s
+user	3m9.142s
+sys	0m47.496s
+
+ROWS: 4096 CORES: 32 TRIAL: 4
+
+real	0m8.478s
+user	3m18.008s
+sys	0m46.028s
+
+ROWS: 4096 CORES: 32 TRIAL: 5
+
+real	0m8.052s
+user	3m6.972s
+sys	0m43.689s
+
+ROWS: 4096 CORES: 64 TRIAL: 1
+
+real	0m16.462s
+user	10m16.923s
+sys	3m25.073s
+
+ROWS: 4096 CORES: 64 TRIAL: 2
+
+real	0m16.412s
+user	10m6.665s
+sys	3m30.429s
+
+ROWS: 4096 CORES: 64 TRIAL: 3
+
+real	0m15.396s
+user	9m14.299s
+sys	3m6.878s
+
+ROWS: 4096 CORES: 64 TRIAL: 4
+
+real	0m13.082s
+user	8m49.292s
+sys	2m17.350s
+
+ROWS: 4096 CORES: 64 TRIAL: 5
+
+real	0m17.233s
+user	10m11.998s
+sys	3m27.560s
+
